@@ -22,6 +22,6 @@
  - [x] Intel HD 530 (2048MB full acceleration)
 
 #### Disabled
- - [x] Sleep/Hibernate
+ - [x] Sleep/Hibernate ([Readmore](https://github.com/fidele007/Asus-ROG-GL552VW-Hackintosh/wiki/Native-power-management-%28Proper-sleep-wake%29))
  - [x] TRIM
  - [x] NVIDIA GeForce GTX 950M
