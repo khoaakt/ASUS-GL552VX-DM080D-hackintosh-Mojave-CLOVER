@@ -8,7 +8,7 @@
 
 #### Functional
  - [x] CPU Speedstep (XCPM)
- - [x] Audio (VoodooHDA for working microphone)
+ - [x] Audio (VoodooHDA for working microphone, also support Jack sense)
  - [x] HDMI (Video, haven't tested Audio yet)
  - [x] Battery Management
  - [x] Backlight
