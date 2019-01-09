@@ -733,16 +733,16 @@
 		<key>ProductName</key>
 		<string>MacBookPro13,3</string>
 		<key>SerialNumber</key>
-		<string>C02SWCZZGTFN</string>
+		<string><renewME></string>
 		<key>SmUUID</key>
-		<string>7D14CDCF-A813-41E2-B045-0C61BBBCF532</string>
+		<string><renewME></string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>D3B24BA8-DEB5-517B-A685-D231A42E2C97</string>
+		<string><renewME></string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
